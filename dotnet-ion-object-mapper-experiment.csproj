@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <RootNamespace>dotnet_ion_object_mapper_experiment</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="/Users/idda/awslabs/amazon-qldb-driver-dotnet/Amazon.QLDB.Driver/Amazon.QLDB.Driver.csproj" Version="1.1.1" />
+  </ItemGroup>
+
+</Project>
